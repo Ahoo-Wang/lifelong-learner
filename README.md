@@ -1,2 +1,2 @@
-# awesome-study
+# lifelong-learner
 Community of lifelong learners
